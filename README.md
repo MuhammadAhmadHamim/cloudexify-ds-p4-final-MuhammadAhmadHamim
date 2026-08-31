@@ -34,7 +34,10 @@ This is the **Month 2 Final Project** — and the **capstone of the entire Cloud
 
 ```
 cloudexify-ds-p4-final-MuhammadAhmadHamim/
-├── charts/     # Output visuals 
+├── charts/     # Output visuals
+|   ├── feature_importance.png
+|   └── roc_curve.png
+|
 ├── sales_analysis.ipynb    # Project 1 — Sales Data Analysis
 ├── customer_segmentation.ipynb     # Project 2 — Customer Segmentation
 ├── house_price_prediction.ipynb    # Project 3 — House Price Prediction
