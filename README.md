@@ -17,7 +17,7 @@
 
 This is the **Month 2 Final Project** — and the **capstone of the entire CloudExify Data Science Internship 2026**. It's a binary classification project predicting disease presence from clinical features (Age, Blood Pressure, Glucose, BMI, Diabetes Pedigree), comparing **Logistic Regression** against a **Decision Tree Classifier**.
 
-| | |
+|---|---|
 |---|---|
 | **Type** | Binary Classification (Supervised ML) |
 | **Difficulty** | Advanced |
